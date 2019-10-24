@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "911193959963",
+    "firebase_url": "https://myfirebasecloudmessagingexpert.firebaseio.com",
+    "project_id": "myfirebasecloudmessagingexpert",
+    "storage_bucket": "myfirebasecloudmessagingexpert.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911193959963:android:551097bea6ac9efac292be",
+        "android_client_info": {
+          "package_name": "id.dendickys.myfirebasecloudmessagingexpert"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "911193959963-kmcanggolvjevfsl9vjibpml0mmieqmg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.dendickys.myfirebasecloudmessagingexpert",
+            "certificate_hash": "5a81ca115adf403af72ced286699e67e78af1dc7"
+          }
+        },
+        {
+          "client_id": "911193959963-hrt8gbpngdilfi96so6p0roq1uh5822q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-WHnQ0vnMrXwRiCw-t3dNpbyLgBsKmSU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "911193959963-hrt8gbpngdilfi96so6p0roq1uh5822q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
